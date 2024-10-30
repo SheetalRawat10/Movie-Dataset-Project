@@ -1,6 +1,5 @@
 #Project Overview#
 
-Problem Statement
 Aim: To analyze a dataset containing information about movies from 1916 to 2016 to uncover trends in genres, profits, and actor performances.
 Context: Understanding cinematic trends can provide insights into audience preferences and the evolution of the film industry.
 
